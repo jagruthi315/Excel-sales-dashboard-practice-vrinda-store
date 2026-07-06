@@ -71,7 +71,7 @@ The dataset contains Vrinda Store's sales records for the year 2022, including i
 
 # 📊 Dashboard Preview
 
-[]
+!(dashboard-view)[https://github.com/jagruthi315/Excel-sales-dashboard-practice-vrinda-store/blob/16a6c8de4885c16c153e54170c2ca7b50d77dca4/vrinda%20store%20dashboard%20img.JPG]
 
 ---
 
